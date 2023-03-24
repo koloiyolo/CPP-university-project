@@ -6,6 +6,8 @@
 #include <fstream>
 #include <functional>
 
+// Program w założeniaach ma zarządzać pracami dyplomowymi studentów 
+
 using namespace std;
 
 class praca
